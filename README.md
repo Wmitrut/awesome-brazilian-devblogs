@@ -7,14 +7,25 @@
 
 Este projeto visa compilar blogs de desenvolvedores da comunidade brasileira. A exigência principal é que o blog esteja ou tenha uma quantia considerável de posts em português PT-BR.
 
+### Regras para contribuir:
+
+- Manter a ordem alfabética
+- O blog precisa ter posts em português
+- O link deve ser disponibilizado
+- Manter a formatação como no modelo abaixo
+
+        - [Nome do Blog / Mantenedor](link) - Tema, tema, tema, tema
+
+
 
 # Blogs
-- [Beto Muniz](https://betomuniz.com/)
-- [Bruno Pulis](http://brunopulis.com/)
-- [Caio Ribeiro](https://udgwebdev.com/)
-- [Lucas Andrey](http://andreybleme.com/)
-- [William Oliveira](https://woliveiras.com.br/)
-- [Yan Magalhães](http://yanmagalhaes.com.br/)
+- [Beto Muniz](https://betomuniz.com/) - Front-End, Mobile, Javascript, Flutter
+- [Bruno Pulis](http://brunopulis.com/) - Front-End, Javascript, Comunidade, Wordpress
+- [Caio Ribeiro](https://udgwebdev.com/) - Front-End, Javascript, Node, 
+- [Lucas Andrey](http://andreybleme.com/) - Javascript, DevOps, TDD
+- [Wellington Mitrut](https://blog.wmitrut.com/) - Front-End, UI, UX, Javascript, Mobile, Kotlin
+- [William Oliveira](https://woliveiras.com.br/) -  JavaScript,Comunidade, Git
+- [Yan Magalhães](http://yanmagalhaes.com.br/) - Front-end, Javascript, Comunidade
 
 
 # Contribua
