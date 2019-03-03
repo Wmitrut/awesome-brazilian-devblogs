@@ -19,14 +19,14 @@ Este projeto visa compilar blogs de desenvolvedores da comunidade brasileira. A 
 
 
 # Blogs
+- [Alvaro Viebrantz](https://aviebrantz.com.br/) - Google Cloud, Cloud Functions, IoT
 - [Beto Muniz](https://betomuniz.com/) - Front-End, Mobile, Javascript, Flutter
 - [Bruno Pulis](http://brunopulis.com/) - Front-End, Javascript, Comunidade, Wordpress
-- [Caio Ribeiro](https://udgwebdev.com/) - Front-End, Javascript, Node, 
+- [Caio Ribeiro](https://udgwebdev.com/) - Front-End, Javascript, Node
 - [Lucas Andrey](http://andreybleme.com/) - Javascript, DevOps, TDD
 - [Wellington Mitrut](https://blog.wmitrut.com/) - Front-End, UI, UX, Javascript, Mobile, Kotlin
 - [William Oliveira](https://woliveiras.com.br/) -  JavaScript,Comunidade, Git
 - [Yan Magalhães](http://yanmagalhaes.com.br/) - Front-end, Javascript, Comunidade
-
 
 # Contribua
 
