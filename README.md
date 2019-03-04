@@ -21,7 +21,8 @@ Este projeto visa compilar blogs de desenvolvedores da comunidade brasileira. A 
 # Blogs
 - [Beto Muniz](https://betomuniz.com/) - Front-End, Mobile, Javascript, Flutter
 - [Bruno Pulis](http://brunopulis.com/) - Front-End, Javascript, Comunidade, Wordpress
-- [Caio Ribeiro](https://udgwebdev.com/) - Front-End, Javascript, Node, 
+- [Caio Ribeiro](https://udgwebdev.com/) - Front-End, Javascript, Node 
+- [Eduardo Rabelo](https://medium.com/@oieduardorabelo) - Front-End
 - [Lucas Andrey](http://andreybleme.com/) - Javascript, DevOps, TDD
 - [Wellington Mitrut](https://blog.wmitrut.com/) - Front-End, UI, UX, Javascript, Mobile, Kotlin
 - [William Oliveira](https://woliveiras.com.br/) -  JavaScript,Comunidade, Git
