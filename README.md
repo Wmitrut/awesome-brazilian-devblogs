@@ -1,6 +1,17 @@
-# Awesome Brazilian Dev Blogs  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://GitHub.com/sindresorhus/awesome) 
+# Awesome Brazilian Dev Blogs 
+
 
 :metal: Curadoria de blogs em português sobre desenvolvimento, devops, comunidade e tecnologia.
+
+<p align="center">
+<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Total downloads on npm." />
+
+<a href="https://github.com/Wmitrut/awesome-brazilian-devblogs/blob/master/LICENSE">
+    <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="Esta lista está criada sob licensa MIT." />
+  </a>
+ 
+<img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs welcome!" />
+</p>
 
 
 # Motivação
