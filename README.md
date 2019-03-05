@@ -1,4 +1,4 @@
-# Awesome Brazilian Dev Blogs 
+# Awesome Brazilian Dev Blogs
 
 
 :metal: Curadoria de blogs em português sobre desenvolvimento, devops, comunidade e tecnologia.
@@ -9,7 +9,7 @@
 <a href="https://github.com/Wmitrut/awesome-brazilian-devblogs/blob/master/LICENSE">
     <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="Esta lista está criada sob licensa MIT." />
   </a>
- 
+
 <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs welcome!" />
 </p>
 
@@ -33,12 +33,13 @@ Este projeto visa compilar blogs de desenvolvedores da comunidade brasileira. A 
 - [Alvaro Viebrantz](https://aviebrantz.com.br/) - Google Cloud, Cloud Functions, IoT
 - [Beto Muniz](https://betomuniz.com/) - Front-End, Mobile, Javascript, Flutter
 - [Bruno Pulis](http://brunopulis.com/) - Front-End, Javascript, Comunidade, Wordpress
-- [Caio Ribeiro](https://udgwebdev.com/) - Front-End, Javascript, Node 
+- [Caio Ribeiro](https://udgwebdev.com/) - Front-End, Javascript, Node
 - [Daniela Petruzalek](https://medium.com/@danielapetruzalek) - Google Cloud, Data Engineering, Go
 - [Eduardo Rabelo](https://medium.com/@oieduardorabelo) - Front-End
 - [Fernanda Bernardo](https://fernandabernardo.com.br) - Front-End, CSS, Javascript
 - [Lucas Andrey](http://andreybleme.com/) - Javascript, DevOps, TDD
 - [Wellington Mitrut](https://blog.wmitrut.com/) - Front-End, UI, UX, Javascript, Mobile, Kotlin
+- [Wharley Ornelas](https://wharley.github.io/) - Full-Stack, Javascript, Comunidade
 - [William Oliveira](https://woliveiras.com.br/) -  JavaScript,Comunidade, Git
 - [Yan Magalhães](http://yanmagalhaes.com.br/) - Front-end, Javascript, Comunidade
 
