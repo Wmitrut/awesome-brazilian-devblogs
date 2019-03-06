@@ -42,6 +42,13 @@ Este projeto visa compilar blogs de desenvolvedores da comunidade brasileira. A 
 - [Wharley Ornelas](https://wharley.github.io/) - Full-Stack, Javascript, Comunidade
 - [William Oliveira](https://woliveiras.com.br/) -  JavaScript,Comunidade, Git
 - [Yan Magalhães](http://yanmagalhaes.com.br/) - Front-end, Javascript, Comunidade
+- [Nando Viera](https://nandovieira.com.br/) - Ruby, Rails, JavaScript, jQuery e Node.js.
+- [Marcos Brizeno](https://brizeno.wordpress.com/) - Ruby
+- [Willian Justen](https://willianjusten.com.br/) - Front-End, Javascript, Comunidade, Carreira, Trabalho Remoto
+- [Nando Moreira](https://nandomoreira.me/) - Front-End, Javascript, Comunidade, Carreira
+- [Flávio Almeida](http://cangaceirojavascript.com.br/) - Front-End, Javascript
+- [Maujor](https://www.maujor.com/blog/) - CSS, Front-End
+- [Zeno Rocha](https://zenorocha.com/articles/) - Front-End, Javascript, Comunidade, Carreira
 
 # Contribua
 
