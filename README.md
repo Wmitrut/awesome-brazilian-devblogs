@@ -37,11 +37,25 @@ Este projeto visa compilar blogs de desenvolvedores da comunidade brasileira. A 
 - [Daniela Petruzalek](https://medium.com/@danielapetruzalek) - Google Cloud, Data Engineering, Go
 - [Eduardo Rabelo](https://medium.com/@oieduardorabelo) - Front-End
 - [Fernanda Bernardo](https://fernandabernardo.com.br) - Front-End, CSS, Javascript
+- [Flávio Almeida](http://cangaceirojavascript.com.br/) - Front-End, Javascript
 - [Lucas Andrey](http://andreybleme.com/) - Javascript, DevOps, TDD
+- [Marcos Brizeno](https://brizeno.wordpress.com/) - Ruby
+- [Maujor](https://www.maujor.com/blog/) - CSS, Front-End
+- [Nando Moreira](https://nandomoreira.me/) - Front-End, Javascript, Comunidade, Carreira
+- [Nando Viera](https://nandovieira.com.br/) - Ruby, Rails, JavaScript, jQuery e Node.js.
 - [Wellington Mitrut](https://blog.wmitrut.com/) - Front-End, UI, UX, Javascript, Mobile, Kotlin
 - [Wharley Ornelas](https://wharley.github.io/) - Full-Stack, Javascript, Comunidade
+- [Willian Justen](https://willianjusten.com.br/) - Front-End, Javascript, Comunidade, Carreira, Trabalho Remoto
 - [William Oliveira](https://woliveiras.com.br/) -  JavaScript,Comunidade, Git
 - [Yan Magalhães](http://yanmagalhaes.com.br/) - Front-end, Javascript, Comunidade
+- [Zeno Rocha](https://zenorocha.com/articles/) - Front-End, Javascript, Comunidade, Carreira
+
+
+
+
+
+
+
 
 # Contribua
 
