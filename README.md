@@ -35,6 +35,7 @@ Este projeto visa compilar blogs de desenvolvedores da comunidade brasileira. A 
 - [Bruno Pulis](http://brunopulis.com/) - Front-End, Javascript, Comunidade, Wordpress
 - [Caio Ribeiro](https://udgwebdev.com/) - Front-End, Javascript, Node
 - [Daniela Petruzalek](https://medium.com/@danielapetruzalek) - Google Cloud, Data Engineering, Go
+- [Diogo Souza Machado](https://www.diogomachado.com) - Front-End, Mobile, Javascript, PHP, Carreira, Dicas para devs
 - [Eduardo Rabelo](https://medium.com/@oieduardorabelo) - Front-End
 - [Fernanda Bernardo](https://fernandabernardo.com.br) - Front-End, CSS, Javascript
 - [Flávio Almeida](http://cangaceirojavascript.com.br/) - Front-End, Javascript
