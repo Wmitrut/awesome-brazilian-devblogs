@@ -37,8 +37,11 @@ Este projeto visa compilar blogs de desenvolvedores da comunidade brasileira. A 
 - [Daniela Petruzalek](https://medium.com/@danielapetruzalek) - Google Cloud, Data Engineering, Go
 - [Diogo Souza Machado](https://www.diogomachado.com) - Front-End, Mobile, Javascript, PHP, Carreira, Dicas para devs
 - [Eduardo Rabelo](https://medium.com/@oieduardorabelo) - Front-End
+- [Felipe Fialho](https://www.felipefialho.com/blog/) - Front-End, CSS, Javascript, Carreira
 - [Fernanda Bernardo](https://fernandabernardo.com.br) - Front-End, CSS, Javascript
+- [Fernando Daciuk](https://blog.da2k.com.br/) - Front-End, Javascript, React, Wordpress 
 - [Flávio Almeida](http://cangaceirojavascript.com.br/) - Front-End, Javascript
+- [Gabriel Ferreira](http://gabsferreira.com/) - .Net, C#, Carreira 
 - [Lucas Andrey](http://andreybleme.com/) - Javascript, DevOps, TDD
 - [Marcos Brizeno](https://brizeno.wordpress.com/) - Ruby
 - [Maujor](https://www.maujor.com/blog/) - CSS, Front-End
