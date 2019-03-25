@@ -43,6 +43,8 @@ Este projeto visa compilar blogs de desenvolvedores da comunidade brasileira. A 
 - [Flávio Almeida](http://cangaceirojavascript.com.br/) - Front-End, Javascript
 - [Gabriel Ferreira](http://gabsferreira.com/) - .Net, C#, Carreira
 - [Humberto Rocha](https://humberto.io/) - Back-End, Front-End, Python, Angular, Game Dev
+- [Jessica Temporal](https://jtemporal.com/) - Data Science, Python, Docker, Jekyll
+- [Leticia Portella](https://leportella.com/) - Data Science, Python, Django, Dicas para devs
 - [Luã Ciceri Schwertner](https://www.lciceris.com.br) - Front-End, WordPress, SEO, PHP e Acessibilidade 
 - [Lucas Andrey](http://andreybleme.com/) - Javascript, DevOps, TDD
 - [Marcos Brizeno](https://brizeno.wordpress.com/) - Ruby
@@ -50,6 +52,8 @@ Este projeto visa compilar blogs de desenvolvedores da comunidade brasileira. A 
 - [Micael Pereira](https://www.micaelpereira.com.br) - Git, Node.js, Ionic, Carreira, Empreendedorismo. 
 - [Nando Moreira](https://nandomoreira.me/) - Front-End, Javascript, Comunidade, Carreira
 - [Nando Viera](https://nandovieira.com.br/) - Ruby, Rails, JavaScript, jQuery e Node.js.
+- [Pizza de dados](https://medium.com/pizzadedados) - Data Science
+- [PythonClub](http://pythonclub.com.br/) - Python
 - [TK](http://leandrotk.github.io/tk) - JavaScript, Functional Programming, Carreira, Ruby e Python.
 - [Vinícius Lourenço](https://blog.vilourenco.com.br) - WordPress, PHP, Carreira, Trabalho Remoto, Dicas
 - [Wellington Mitrut](https://blog.wmitrut.com/) - Front-End, UI, UX, Javascript, Mobile, Kotlin
