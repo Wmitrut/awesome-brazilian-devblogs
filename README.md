@@ -46,6 +46,7 @@ Este projeto visa compilar blogs de desenvolvedores da comunidade brasileira. A 
 - [Lucas Andrey](http://andreybleme.com/) - Javascript, DevOps, TDD
 - [Marcos Brizeno](https://brizeno.wordpress.com/) - Ruby
 - [Maujor](https://www.maujor.com/blog/) - CSS, Front-End
+- [Micael Pereira](https://www.micaelpereira.com.br) - Git, Node.js, Ionic, Carreira, Empreendedorismo. 
 - [Nando Moreira](https://nandomoreira.me/) - Front-End, Javascript, Comunidade, Carreira
 - [Nando Viera](https://nandovieira.com.br/) - Ruby, Rails, JavaScript, jQuery e Node.js.
 - [TK](http://leandrotk.github.io/tk) - JavaScript, Functional Programming, Carreira, Ruby e Python.
