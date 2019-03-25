@@ -39,7 +39,7 @@ Este projeto visa compilar blogs de desenvolvedores da comunidade brasileira. A 
 - [Eduardo Rabelo](https://medium.com/@oieduardorabelo) - Front-End
 - [Felipe Fialho](https://www.felipefialho.com/blog/) - Front-End, CSS, Javascript, Carreira
 - [Fernanda Bernardo](https://fernandabernardo.com.br) - Front-End, CSS, Javascript
-- [Fernando Daciuk](https://blog.da2k.com.br/) - Front-End, Javascript, React, Wordpress 
+- [Fernando Daciuk](https://blog.da2k.com.br/) - Front-End, Javascript, React, Wordpress
 - [Flávio Almeida](http://cangaceirojavascript.com.br/) - Front-End, Javascript
 - [Gabriel Ferreira](http://gabsferreira.com/) - .Net, C#, Carreira
 - [Luã Ciceri Schwertner](https://www.lciceris.com.br) - Front-End, WordPress, SEO, PHP e Acessibilidade 
@@ -48,14 +48,13 @@ Este projeto visa compilar blogs de desenvolvedores da comunidade brasileira. A 
 - [Maujor](https://www.maujor.com/blog/) - CSS, Front-End
 - [Nando Moreira](https://nandomoreira.me/) - Front-End, Javascript, Comunidade, Carreira
 - [Nando Viera](https://nandovieira.com.br/) - Ruby, Rails, JavaScript, jQuery e Node.js.
+- [TK](http://leandrotk.github.io/tk) - JavaScript, Functional Programming, Carreira, Ruby e Python.
 - [Wellington Mitrut](https://blog.wmitrut.com/) - Front-End, UI, UX, Javascript, Mobile, Kotlin
 - [Wharley Ornelas](https://wharley.github.io/) - Full-Stack, Javascript, Comunidade
 - [Willian Justen](https://willianjusten.com.br/) - Front-End, Javascript, Comunidade, Carreira, Trabalho Remoto
 - [William Oliveira](https://woliveiras.com.br/) -  JavaScript,Comunidade, Git
 - [Yan Magalhães](http://yanmagalhaes.com.br/) - Front-end, Javascript, Comunidade
 - [Zeno Rocha](https://zenorocha.com/articles/) - Front-End, Javascript, Comunidade, Carreira
-
-
 
 
 
