@@ -42,6 +42,7 @@ Este projeto visa compilar blogs de desenvolvedores da comunidade brasileira. A 
 - [Fernando Daciuk](https://blog.da2k.com.br/) - Front-End, Javascript, React, Wordpress
 - [Flávio Almeida](http://cangaceirojavascript.com.br/) - Front-End, Javascript
 - [Gabriel Ferreira](http://gabsferreira.com/) - .Net, C#, Carreira
+- [Luã Ciceri Schwertner](https://www.lciceris.com.br) - Front-End, WordPress, SEO, PHP e Acessibilidade 
 - [Lucas Andrey](http://andreybleme.com/) - Javascript, DevOps, TDD
 - [Marcos Brizeno](https://brizeno.wordpress.com/) - Ruby
 - [Maujor](https://www.maujor.com/blog/) - CSS, Front-End
@@ -54,8 +55,6 @@ Este projeto visa compilar blogs de desenvolvedores da comunidade brasileira. A 
 - [William Oliveira](https://woliveiras.com.br/) -  JavaScript,Comunidade, Git
 - [Yan Magalhães](http://yanmagalhaes.com.br/) - Front-end, Javascript, Comunidade
 - [Zeno Rocha](https://zenorocha.com/articles/) - Front-End, Javascript, Comunidade, Carreira
-
-
 
 
 
