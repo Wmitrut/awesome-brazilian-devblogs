@@ -49,6 +49,7 @@ Este projeto visa compilar blogs de desenvolvedores da comunidade brasileira. A 
 - [Nando Moreira](https://nandomoreira.me/) - Front-End, Javascript, Comunidade, Carreira
 - [Nando Viera](https://nandovieira.com.br/) - Ruby, Rails, JavaScript, jQuery e Node.js.
 - [TK](http://leandrotk.github.io/tk) - JavaScript, Functional Programming, Carreira, Ruby e Python.
+- [Vinícius Lourenço](https://blog.vilourenco.com.br) - WordPress, PHP, Carreira, Trabalho Remoto, Dicas
 - [Wellington Mitrut](https://blog.wmitrut.com/) - Front-End, UI, UX, Javascript, Mobile, Kotlin
 - [Wharley Ornelas](https://wharley.github.io/) - Full-Stack, Javascript, Comunidade
 - [Willian Justen](https://willianjusten.com.br/) - Front-End, Javascript, Comunidade, Carreira, Trabalho Remoto
