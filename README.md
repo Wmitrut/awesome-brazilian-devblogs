@@ -56,6 +56,7 @@ Este projeto visa compilar blogs de desenvolvedores da comunidade brasileira. A 
 - [Pizza de dados](https://medium.com/pizzadedados) - Data Science
 - [PythonClub](http://pythonclub.com.br/) - Python
 - [TK](http://leandrotk.github.io/tk) - JavaScript, Functional Programming, Carreira, Ruby e Python.
+- [Victor Torres](https://victortorres.net.br/) - Dicas de macOS, Linux, git...
 - [Vinícius Lourenço](https://blog.vilourenco.com.br) - WordPress, PHP, Carreira, Trabalho Remoto, Dicas
 - [Wellington Mitrut](https://blog.wmitrut.com/) - Front-End, UI, UX, Javascript, Mobile, Kotlin
 - [Wharley Ornelas](https://wharley.github.io/) - Full-Stack, Javascript, Comunidade
