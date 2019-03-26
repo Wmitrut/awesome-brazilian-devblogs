@@ -34,6 +34,7 @@ Este projeto visa compilar blogs de desenvolvedores da comunidade brasileira. A 
 - [Beto Muniz](https://betomuniz.com/) - Front-End, Mobile, Javascript, Flutter
 - [Bruno Pulis](http://brunopulis.com/) - Front-End, Javascript, Comunidade, Wordpress
 - [Caio Ribeiro](https://udgwebdev.com/) - Front-End, Javascript, Node
+- [Cleuton Sampaio](http://www.obomprogramador.com/) - Back-End, React, Data Science, IoT, Arquitetura de Software
 - [Daniela Petruzalek](https://medium.com/@danielapetruzalek) - Google Cloud, Data Engineering, Go
 - [Diogo Souza Machado](https://www.diogomachado.com) - Front-End, Mobile, Javascript, PHP, Carreira, Dicas para devs
 - [Eduardo Rabelo](https://medium.com/@oieduardorabelo) - Front-End
