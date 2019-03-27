@@ -41,8 +41,8 @@ Este projeto visa compilar blogs de desenvolvedores da comunidade brasileira. A 
 - [Felipe Fialho](https://www.felipefialho.com/blog/) - Front-End, CSS, Javascript, Carreira
 - [Fernanda Bernardo](https://fernandabernardo.com.br) - Front-End, CSS, Javascript
 - [Fernando Daciuk](https://blog.da2k.com.br/) - Front-End, Javascript, React, Wordpress
-- [Frankyston Lins](https://frankyston.dev/) - Ruby, Rails, Javascript, Trabalho Remoto
 - [Flávio Almeida](http://cangaceirojavascript.com.br/) - Front-End, Javascript
+- [Frankyston Lins](https://frankyston.dev/) - Ruby, Rails, Javascript, Trabalho Remoto
 - [Gabriel Ferreira](http://gabsferreira.com/) - .Net, C#, Carreira
 - [Humberto Rocha](https://humberto.io/) - Back-End, Front-End, Python, Angular, Game Dev
 - [Jessica Temporal](https://jtemporal.com/) - Data Science, Python, Docker, Jekyll
