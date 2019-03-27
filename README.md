@@ -59,6 +59,7 @@ Este projeto visa compilar blogs de desenvolvedores da comunidade brasileira. A 
 - [PythonClub](http://pythonclub.com.br/) - Python
 - [Rocketseat](https://blog.rocketseat.com.br/) - JavaScript, Node.js, React, React Native
 - [TK](http://leandrotk.github.io/tk) - JavaScript, Functional Programming, Carreira, Ruby e Python.
+- [Victor Magalhães](https://victormagalhaes.codes/) - Front-end, Javascript, Node
 - [Victor Torres](https://victortorres.net.br/) - Dicas de macOS, Linux, git...
 - [Vinícius Lourenço](https://blog.vilourenco.com.br) - WordPress, PHP, Carreira, Trabalho Remoto, Dicas
 - [Wellington Mitrut](https://blog.wmitrut.com/) - Front-End, UI, UX, Javascript, Mobile, Kotlin
