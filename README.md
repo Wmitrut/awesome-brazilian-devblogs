@@ -35,6 +35,7 @@ Este projeto visa compilar blogs de desenvolvedores da comunidade brasileira. A 
 - [Bruno Pulis](http://brunopulis.com/) - Front-End, Javascript, Comunidade, Wordpress
 - [Bruno Rocha](http://brunorocha.org) - Python, Flask, Web, Quality Engineering, Rust, DevOps
 - [Caio Ribeiro](https://udgwebdev.com/) - Front-End, Javascript, Node
+- [Claudio Davi](https://claudiodavi.com/) - Machine Learning, Python, Data Science, Engenharia de Software
 - [Cleuton Sampaio](http://www.obomprogramador.com/) - Back-End, React, Data Science, IoT, Arquitetura de Software
 - [Daniela Petruzalek](https://medium.com/@danielapetruzalek) - Google Cloud, Data Engineering, Go
 - [Diogo Souza Machado](https://www.diogomachado.com) - Front-End, Mobile, Javascript, PHP, Carreira, Dicas para devs
