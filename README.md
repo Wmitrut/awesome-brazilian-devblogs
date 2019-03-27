@@ -1,6 +1,5 @@
 # Awesome Brazilian Dev Blogs
 
-
 :metal: Curadoria de blogs em português sobre desenvolvimento, devops, comunidade e tecnologia.
 
 <p align="center">
@@ -12,7 +11,6 @@
 
 <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs welcome!" />
 </p>
-
 
 # Motivação
 
@@ -27,9 +25,8 @@ Este projeto visa compilar blogs de desenvolvedores da comunidade brasileira. A 
 
         - [Nome do Blog / Mantenedor](link) - Tema, tema, tema, tema
 
-
-
 # Blogs
+
 - [Alvaro Viebrantz](https://aviebrantz.com.br/) - Google Cloud, Cloud Functions, IoT
 - [Beto Muniz](https://betomuniz.com/) - Front-End, Mobile, Javascript, Flutter
 - [Bruno Pulis](http://brunopulis.com/) - Front-End, Javascript, Comunidade, Wordpress
@@ -45,6 +42,7 @@ Este projeto visa compilar blogs de desenvolvedores da comunidade brasileira. A 
 - [Fernanda Bernardo](https://fernandabernardo.com.br) - Front-End, CSS, Javascript
 - [Fernando Daciuk](https://blog.da2k.com.br/) - Front-End, Javascript, React, Wordpress
 - [Flávio Almeida](http://cangaceirojavascript.com.br/) - Front-End, Javascript
+- [Frankyston Lins](https://frankystondev/) - Ruby, Rails, Javascript, Trabalho Remoto, Dicas
 - [Gabriel Ferreira](http://gabsferreira.com/) - .Net, C#, Carreira
 - [Humberto Rocha](https://humberto.io/) - Back-End, Front-End, Python, Angular, Game Dev
 - [Jessica Temporal](https://jtemporal.com/) - Data Science, Python, Docker, Jekyll
@@ -67,14 +65,9 @@ Este projeto visa compilar blogs de desenvolvedores da comunidade brasileira. A 
 - [Wellington Mitrut](https://blog.wmitrut.com/) - Front-End, UI, UX, Javascript, Mobile, Kotlin
 - [Wharley Ornelas](https://wharley.github.io/) - Full-Stack, Javascript, Comunidade
 - [Willian Justen](https://willianjusten.com.br/) - Front-End, Javascript, Comunidade, Carreira, Trabalho Remoto
-- [William Oliveira](https://woliveiras.com.br/) -  JavaScript,Comunidade, Git
+- [William Oliveira](https://woliveiras.com.br/) - JavaScript,Comunidade, Git
 - [Yan Magalhães](http://yanmagalhaes.com.br/) - Front-end, Javascript, Comunidade
 - [Zeno Rocha](https://zenorocha.com/articles/) - Front-End, Javascript, Comunidade, Carreira
-
-
-
-
-
 
 # Contribua
 
