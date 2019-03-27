@@ -47,16 +47,17 @@ Este projeto visa compilar blogs de desenvolvedores da comunidade brasileira. A 
 - [Humberto Rocha](https://humberto.io/) - Back-End, Front-End, Python, Angular, Game Dev
 - [Jessica Temporal](https://jtemporal.com/) - Data Science, Python, Docker, Jekyll
 - [Leticia Portella](https://leportella.com/) - Data Science, Python, Django, Dicas para devs
-- [Luã Ciceri Schwertner](https://www.lciceris.com.br) - Front-End, WordPress, SEO, PHP e Acessibilidade 
+- [Luã Ciceri Schwertner](https://www.lciceris.com.br) - Front-End, WordPress, SEO, PHP e Acessibilidade
 - [Lucas Andrey](http://andreybleme.com/) - Javascript, DevOps, TDD
 - [Luiz Carvalho](https://medium.com/@luizcarvalho) - Ruby, Chatbots, Inovação
 - [Marcos Brizeno](https://brizeno.wordpress.com/) - Ruby
 - [Maujor](https://www.maujor.com/blog/) - CSS, Front-End
-- [Micael Pereira](https://www.micaelpereira.com.br) - Git, Node.js, Ionic, Carreira, Empreendedorismo. 
+- [Micael Pereira](https://www.micaelpereira.com.br) - Git, Node.js, Ionic, Carreira, Empreendedorismo.
 - [Nando Moreira](https://nandomoreira.me/) - Front-End, Javascript, Comunidade, Carreira
 - [Nando Viera](https://nandovieira.com.br/) - Ruby, Rails, JavaScript, jQuery e Node.js.
 - [Pizza de dados](https://medium.com/pizzadedados) - Data Science
 - [PythonClub](http://pythonclub.com.br/) - Python
+- [Rocketseat](https://blog.rocketseat.com.br/) - JavaScript, Node.js, React, React Native
 - [TK](http://leandrotk.github.io/tk) - JavaScript, Functional Programming, Carreira, Ruby e Python.
 - [Victor Torres](https://victortorres.net.br/) - Dicas de macOS, Linux, git...
 - [Vinícius Lourenço](https://blog.vilourenco.com.br) - WordPress, PHP, Carreira, Trabalho Remoto, Dicas
