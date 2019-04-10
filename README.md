@@ -37,7 +37,9 @@ Este projeto visa compilar blogs de desenvolvedores da comunidade brasileira. A 
 - [Caio Ribeiro](https://udgwebdev.com/) - Front-End, Javascript, Node
 - [Claudio Davi](https://claudiodavi.com/) - Machine Learning, Python, Data Science, Engenharia de Software
 - [Cleuton Sampaio](http://www.obomprogramador.com/) - Back-End, React, Data Science, IoT, Arquitetura de Software
+- [Curso em Vídeo](https://www.cursoemvideo.com/course/) - Algoritmos, HTML5, CSS3, Python, PHP, Java, POO, MySQL, MKT Digital, Photoshop, Word/Excel 2016
 - [Daniela Petruzalek](https://medium.com/@danielapetruzalek) - Google Cloud, Data Engineering, Go
+- [DevDojo](http://devdojo.academy) - Java, Spring Boot, JSF, TypeScript 
 - [Diogo Souza Machado](https://www.diogomachado.com) - Front-End, Mobile, Javascript, PHP, Carreira, Dicas para devs
 - [Eduardo Rabelo](https://medium.com/@oieduardorabelo) - Front-End
 - [Elemar Jr](http://www.elemarjr.com/pt/blog/) - Microsoft MVP, C#, Arquitetura de Software
@@ -49,6 +51,7 @@ Este projeto visa compilar blogs de desenvolvedores da comunidade brasileira. A 
 - [Humberto Rocha](https://humberto.io/) - Back-End, Front-End, Python, Angular, Game Dev
 - [Jessica Temporal](https://jtemporal.com/) - Data Science, Python, Docker, Jekyll
 - [Leticia Portella](https://leportella.com/) - Data Science, Python, Django, Dicas para devs
+- [Loiane Training](https://loiane.training/cursos) - Java, JavaScript, Angular, Estrutura de Dados, Ext Js 4, Phonegap/Cordova
 - [Luã Ciceri Schwertner](https://www.lciceris.com.br) - Front-End, WordPress, SEO, PHP e Acessibilidade
 - [Lucas Andrey](http://andreybleme.com/) - Javascript, DevOps, TDD
 - [Luiz Carvalho](https://medium.com/@luizcarvalho) - Ruby, Chatbots, Inovação
