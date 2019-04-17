@@ -48,6 +48,7 @@ Este projeto visa compilar blogs de desenvolvedores da comunidade brasileira. A 
 - [Fernando Daciuk](https://blog.da2k.com.br/) - Front-End, Javascript, React, Wordpress
 - [Flávio Almeida](http://cangaceirojavascript.com.br/) - Front-End, Javascript
 - [Gabriel Ferreira](http://gabsferreira.com/) - .Net, C#, Carreira
+- [Nelson Glauber](http://www.nglauber.com.br) - Android, Java, Kotlin
 - [Gilson Filho](http://gilsondev.in) - Python, Django, Java, Big Data, Engenharia de Dados
 - [Humberto Rocha](https://humberto.io/) - Back-End, Front-End, Python, Angular, Game Dev
 - [Jessica Temporal](https://jtemporal.com/) - Data Science, Python, Docker, Jekyll
