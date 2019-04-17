@@ -57,6 +57,7 @@ Este projeto visa compilar blogs de desenvolvedores da comunidade brasileira. A 
 - [Lucas Andrey](http://andreybleme.com/) - Javascript, DevOps, TDD
 - [Luiz Carvalho](https://medium.com/@luizcarvalho) - Ruby, Chatbots, Inovação
 - [Marcos Brizeno](https://brizeno.wordpress.com/) - Ruby
+- [Marcos Schultz](http://www.schultzgames.com) - Unity, C#, Game Dev
 - [Maujor](https://www.maujor.com/blog/) - CSS, Front-End
 - [Micael Pereira](https://www.micaelpereira.com.br) - Git, Node.js, Ionic, Carreira, Empreendedorismo.
 - [Nando Moreira](https://nandomoreira.me/) - Front-End, Javascript, Comunidade, Carreira
