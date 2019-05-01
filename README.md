@@ -51,6 +51,7 @@ Este projeto visa compilar blogs de desenvolvedores da comunidade brasileira. A 
 - [Gilson Filho](http://gilsondev.in) - Python, Django, Java, Big Data, Engenharia de Dados
 - [Humberto Rocha](https://humberto.io/) - Back-End, Front-End, Python, Angular, Game Dev
 - [Jessica Temporal](https://jtemporal.com/) - Data Science, Python, Docker, Jekyll
+- [LAMFO](https://lamfo-unb.github.io/) - Aprendizado de Maquina em Finanças e Organizações
 - [Leticia Portella](https://leportella.com/) - Data Science, Python, Django, Dicas para devs
 - [Loiane Training](https://loiane.training/cursos) - Java, JavaScript, Angular, Estrutura de Dados, Ext Js 4, Phonegap/Cordova
 - [Luã Ciceri Schwertner](https://www.lciceris.com.br) - Front-End, WordPress, SEO, PHP e Acessibilidade
@@ -59,6 +60,7 @@ Este projeto visa compilar blogs de desenvolvedores da comunidade brasileira. A 
 - [Marcos Brizeno](https://brizeno.wordpress.com/) - Ruby
 - [Maujor](https://www.maujor.com/blog/) - CSS, Front-End
 - [Micael Pereira](https://www.micaelpereira.com.br) - Git, Node.js, Ionic, Carreira, Empreendedorismo.
+- [Minerando Dados](http://minerandodados.com.br/) - Data Science, Big Data, IA e Carreira 
 - [Nando Moreira](https://nandomoreira.me/) - Front-End, Javascript, Comunidade, Carreira
 - [Nando Viera](https://nandovieira.com.br/) - Ruby, Rails, JavaScript, jQuery e Node.js.
 - [Pizza de dados](https://medium.com/pizzadedados) - Data Science
