@@ -62,6 +62,7 @@ Este projeto visa compilar blogs de desenvolvedores da comunidade brasileira. A 
 - [Micael Pereira](https://www.micaelpereira.com.br) - Git, Node.js, Ionic, Carreira, Empreendedorismo.
 - [Nando Moreira](https://nandomoreira.me/) - Front-End, Javascript, Comunidade, Carreira
 - [Nando Viera](https://nandovieira.com.br/) - Ruby, Rails, JavaScript, jQuery e Node.js.
+- [Nelson Glauber](http://www.nglauber.com.br) - Android, Java, Kotlin
 - [Pizza de dados](https://medium.com/pizzadedados) - Data Science
 - [PythonClub](http://pythonclub.com.br/) - Python
 - [Rocketseat](https://blog.rocketseat.com.br/) - JavaScript, Node.js, React, React Native
