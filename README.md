@@ -27,59 +27,115 @@ Este projeto visa compilar blogs de desenvolvedores da comunidade brasileira. A 
 
         - [Nome do Blog / Mantenedor](link) - Tema, tema, tema, tema
 
+# Índice
+  - [A](#A)
+  - [B](#B)
+  - [C](#C)
+  - [D](#D)
+  - [E](#E)
+  - [F](#F)
+  - [G](#G)
+  - [H](#H)
+  - [J](#J)
+  - [L](#L)
+  - [M](#M)
+  - [N](#N)
+  - [P](#P)
+  - [R](#R)
+  - [T](#T)
+  - [V](#V)
+  - [W](#W)
+  - [Y](#Y)
+  - [Z](#Z)
 
 
 # Blogs
+
+#### A
 - [Alvaro Viebrantz](https://aviebrantz.com.br/) - Google Cloud, Cloud Functions, IoT
+
+#### B
 - [Beto Muniz](https://betomuniz.com/) - Front-End, Mobile, Javascript, Flutter
 - [Bruno Pulis](http://brunopulis.com/) - Front-End, Javascript, Comunidade, Wordpress
 - [Bruno Rocha](http://brunorocha.org) - Python, Flask, Web, Quality Engineering, Rust, DevOps
+
+#### C
 - [Caio Ribeiro](https://udgwebdev.com/) - Front-End, Javascript, Node
 - [Claudio Davi](https://claudiodavi.com/) - Machine Learning, Python, Data Science, Engenharia de Software
 - [Cleuton Sampaio](http://www.obomprogramador.com/) - Back-End, React, Data Science, IoT, Arquitetura de Software
 - [Curso em Vídeo](https://www.cursoemvideo.com/course/) - Algoritmos, HTML5, CSS3, Python, PHP, Java, POO, MySQL, MKT Digital, Photoshop, Word/Excel 2016
+
+#### D
 - [Daniela Petruzalek](https://medium.com/@danielapetruzalek) - Google Cloud, Data Engineering, Go
 - [DevDojo](http://devdojo.academy) - Java, Spring Boot, JSF, TypeScript 
 - [Diogo Souza Machado](https://www.diogomachado.com) - Front-End, Mobile, Javascript, PHP, Carreira, Dicas para devs
+
+#### E
 - [Eduardo Rabelo](https://medium.com/@oieduardorabelo) - Front-End
 - [Elemar Jr](http://www.elemarjr.com/pt/blog/) - Microsoft MVP, C#, Arquitetura de Software
+
+#### F
 - [Felipe Fialho](https://www.felipefialho.com/blog/) - Front-End, CSS, Javascript, Carreira
 - [Fernanda Bernardo](https://fernandabernardo.com.br) - Front-End, CSS, Javascript
 - [Fernando Daciuk](https://blog.da2k.com.br/) - Front-End, Javascript, React, Wordpress
 - [Flávio Almeida](http://cangaceirojavascript.com.br/) - Front-End, Javascript
+
+#### G
 - [Gabriel Ferreira](http://gabsferreira.com/) - .Net, C#, Carreira
 - [Gilson Filho](http://gilsondev.in) - Python, Django, Java, Big Data, Engenharia de Dados
+
+#### H
 - [Humberto Rocha](https://humberto.io/) - Back-End, Front-End, Python, Angular, Game Dev
+
+#### J
 - [Jessica Temporal](https://jtemporal.com/) - Data Science, Python, Docker, Jekyll
+
+#### L
 - [LAMFO](https://lamfo-unb.github.io/) - Aprendizado de Maquina em Finanças e Organizações
 - [Leticia Portella](https://leportella.com/) - Data Science, Python, Django, Dicas para devs
 - [Loiane Training](https://loiane.training/cursos) - Java, JavaScript, Angular, Estrutura de Dados, Ext Js 4, Phonegap/Cordova
 - [Luã Ciceri Schwertner](https://www.lciceris.com.br) - Front-End, WordPress, SEO, PHP e Acessibilidade
 - [Lucas Andrey](http://andreybleme.com/) - Javascript, DevOps, TDD
 - [Luiz Carvalho](https://medium.com/@luizcarvalho) - Ruby, Chatbots, Inovação
+
+#### M
 - [Marcos Brizeno](https://brizeno.wordpress.com/) - Ruby
 - [Marcos Schultz](http://www.schultzgames.com) - Unity, C#, Game Dev
 - [Maujor](https://www.maujor.com/blog/) - CSS, Front-End
 - [Micael Pereira](https://www.micaelpereira.com.br) - Git, Node.js, Ionic, Carreira, Empreendedorismo.
 - [Minerando Dados](http://minerandodados.com.br/) - Data Science, Big Data, IA e Carreira 
+
+#### N
 - [Nando Moreira](https://nandomoreira.me/) - Front-End, Javascript, Comunidade, Carreira
 - [Nando Viera](https://nandovieira.com.br/) - Ruby, Rails, JavaScript, jQuery e Node.js.
 - [Nelson Glauber](http://www.nglauber.com.br) - Android, Java, Kotlin
+
+#### P
 - [Pizza de dados](https://medium.com/pizzadedados) - Data Science
 - [PythonClub](http://pythonclub.com.br/) - Python
+
+#### R
 - [Rocketseat](https://blog.rocketseat.com.br/) - JavaScript, Node.js, React, React Native
+
+#### T
 - [TK](http://leandrotk.github.io/tk) - JavaScript, Functional Programming, Carreira, Ruby e Python.
+
+#### V
 - [Victor Magalhães](https://victormagalhaes.codes/) - Front-end, Javascript, Node
 - [Victor Torres](https://victortorres.net.br/) - Dicas de macOS, Linux, git...
 - [Vinícius Lourenço](https://blog.vilourenco.com.br) - WordPress, PHP, Carreira, Trabalho Remoto, Dicas
+
+#### W
 - [Wellington Mitrut](https://blog.wmitrut.com/) - Front-End, UI, UX, Javascript, Mobile, Kotlin
 - [Wharley Ornelas](https://wharley.github.io/) - Full-Stack, Javascript, Comunidade
 - [Willian Justen](https://willianjusten.com.br/) - Front-End, Javascript, Comunidade, Carreira, Trabalho Remoto
 - [William Oliveira](https://woliveiras.com.br/) -  JavaScript,Comunidade, Git
+
+#### Y
 - [Yan Magalhães](http://yanmagalhaes.com.br/) - Front-end, Javascript, Comunidade
+
+#### Z
 - [Zeno Rocha](https://zenorocha.com/articles/) - Front-End, Javascript, Comunidade, Carreira
-
-
 
 
 
