@@ -1,9 +1,8 @@
-# Awesome Brazilian Dev Blogs
-
 <p align="center">
     <img width="400" height="auto" src="logo.svg"/>
 </p>
 
+# Awesome Brazilian Dev Blogs
 
 :metal: Curadoria de blogs em português sobre desenvolvimento, devops, comunidade e tecnologia.
 
