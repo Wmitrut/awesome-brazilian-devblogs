@@ -70,7 +70,7 @@ Este projeto visa compilar blogs de desenvolvedores da comunidade brasileira. A 
 
 #### D
 - [Daniela Petruzalek](https://medium.com/@danielapetruzalek) - Google Cloud, Data Engineering, Go
-- [DevDojo](http://devdojo.academy) - Java, Spring Boot, JSF, TypeScript 
+- [DevDojo](http://devdojo.academy) - Java, Spring Boot, JSF, TypeScript
 - [Diogo Souza Machado](https://www.diogomachado.com) - Front-End, Mobile, Javascript, PHP, Carreira, Dicas para devs
 
 #### E
@@ -99,6 +99,7 @@ Este projeto visa compilar blogs de desenvolvedores da comunidade brasileira. A 
 - [Loiane Training](https://loiane.training/cursos) - Java, JavaScript, Angular, Estrutura de Dados, Ext Js 4, Phonegap/Cordova
 - [Luã Ciceri Schwertner](https://www.lciceris.com.br) - Front-End, WordPress, SEO, PHP e Acessibilidade
 - [Lucas Andrey](http://andreybleme.com/) - Javascript, DevOps, TDD
+- [Lucas Caton](https://www.lucascaton.com.br/) - Ruby e Ruby on Rails
 - [Luiz Carvalho](https://medium.com/@luizcarvalho) - Ruby, Chatbots, Inovação
 
 #### M
@@ -106,7 +107,7 @@ Este projeto visa compilar blogs de desenvolvedores da comunidade brasileira. A 
 - [Marcos Schultz](http://www.schultzgames.com) - Unity, C#, Game Dev
 - [Maujor](https://www.maujor.com/blog/) - CSS, Front-End
 - [Micael Pereira](https://www.micaelpereira.com.br) - Git, Node.js, Ionic, Carreira, Empreendedorismo.
-- [Minerando Dados](http://minerandodados.com.br/) - Data Science, Big Data, IA e Carreira 
+- [Minerando Dados](http://minerandodados.com.br/) - Data Science, Big Data, IA e Carreira
 
 #### N
 - [Nando Moreira](https://nandomoreira.me/) - Front-End, Javascript, Comunidade, Carreira
@@ -127,6 +128,7 @@ Este projeto visa compilar blogs de desenvolvedores da comunidade brasileira. A 
 - [Victor Magalhães](https://victormagalhaes.codes/) - Front-end, Javascript, Node
 - [Victor Torres](https://victortorres.net.br/) - Dicas de macOS, Linux, git...
 - [Vinícius Lourenço](https://blog.vilourenco.com.br) - WordPress, PHP, Carreira, Trabalho Remoto, Dicas
+- [Vinícius Thiengo](https://www.thiengo.com.br/) - Android, Web, Empreendedorismo
 
 #### W
 - [Wellington Mitrut](https://blog.wmitrut.com/) - Front-End, UI, UX, Javascript, Mobile, Kotlin
