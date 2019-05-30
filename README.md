@@ -76,6 +76,7 @@ Este projeto visa compilar blogs de desenvolvedores da comunidade brasileira. A 
 #### E
 - [Eduardo Rabelo](https://medium.com/@oieduardorabelo) - Front-End
 - [Elemar Jr](http://www.elemarjr.com/pt/blog/) - Microsoft MVP, C#, Arquitetura de Software
+- [Everton Strack](https://evertonstrack.com.br/blog/) - Front-End, HTML, CSS, Javascript
 
 #### F
 - [Felipe Fialho](https://www.felipefialho.com/blog/) - Front-End, CSS, Javascript, Carreira
