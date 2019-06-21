@@ -120,6 +120,7 @@ Este projeto visa compilar blogs de desenvolvedores da comunidade brasileira. A 
 - [PythonClub](http://pythonclub.com.br/) - Python
 
 #### R
+- [Ravan Scafi](https://ravan.me) - PHP, Elixir, Carreira
 - [Rocketseat](https://blog.rocketseat.com.br/) - JavaScript, Node.js, React, React Native
 
 #### T
