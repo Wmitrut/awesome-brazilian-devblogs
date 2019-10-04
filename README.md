@@ -108,6 +108,7 @@ Este projeto visa compilar blogs de desenvolvedores da comunidade brasileira. A 
 - [Marcos Schultz](http://www.schultzgames.com) - Unity, C#, Game Dev
 - [Maujor](https://www.maujor.com/blog/) - CSS, Front-End
 - [Micael Pereira](https://www.micaelpereira.com.br) - Git, Node.js, Ionic, Carreira, Empreendedorismo.
+- [Michell Stuttgart](https://mstuttgart.github.io) - Python, Git, Linux
 - [Minerando Dados](http://minerandodados.com.br/) - Data Science, Big Data, IA e Carreira
 
 #### N
