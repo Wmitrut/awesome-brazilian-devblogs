@@ -76,6 +76,7 @@ Este projeto visa compilar blogs de desenvolvedores da comunidade brasileira. A 
 #### E
 - [Eduardo Rabelo](https://medium.com/@oieduardorabelo) - Front-End
 - [Elemar Jr](http://www.elemarjr.com/pt/blog/) - Microsoft MVP, C#, Arquitetura de Software
+- [Erick Wendel](https://erickwendel.com/) - CVS, Arquitetura de Software, Front-End, Javascript, Node
 - [Everton Strack](https://evertonstrack.com.br/blog/) - Front-End, HTML, CSS, Javascript
 
 #### F
@@ -118,6 +119,7 @@ Este projeto visa compilar blogs de desenvolvedores da comunidade brasileira. A 
 
 #### P
 - [Pizza de dados](https://medium.com/pizzadedados) - Data Science
+- [Programador Sagaz | Weuler Borges](https://programadorsagaz.com.br/) - Algoritmos, HTML5, CSS3, Python, PHP, Java, POO
 - [PythonClub](http://pythonclub.com.br/) - Python
 
 #### R
@@ -134,6 +136,7 @@ Este projeto visa compilar blogs de desenvolvedores da comunidade brasileira. A 
 - [Vinícius Thiengo](https://www.thiengo.com.br/) - Android, Web, Empreendedorismo
 
 #### W
+- [Waldemar Neto](https://walde.co/) - Front-End, Javascript, Node, Java, Agile, Devops
 - [Wellington Mitrut](https://blog.wmitrut.com/) - Front-End, UI, UX, Javascript, Mobile, Kotlin
 - [Wharley Ornelas](https://wharley.github.io/) - Full-Stack, Javascript, Comunidade
 - [Willian Justen](https://willianjusten.com.br/) - Front-End, Javascript, Comunidade, Carreira, Trabalho Remoto
