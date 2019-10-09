@@ -92,6 +92,9 @@ Este projeto visa compilar blogs de desenvolvedores da comunidade brasileira. A 
 #### H
 - [Humberto Rocha](https://humberto.io/) - Back-End, Front-End, Python, Angular, Game Dev
 
+#### I
+- [InfoQ Brasil](https://www.infoq.com/br) - Desenvolvimento e linguagens em geral, Arquitetura, Data Science, DevOps
+
 #### J
 - [Jessica Temporal](https://jtemporal.com/) - Data Science, Python, Docker, Jekyll
 
