@@ -56,6 +56,8 @@ Este projeto visa compilar blogs de desenvolvedores da comunidade brasileira. A 
 
 #### A
 - [Alvaro Viebrantz](https://aviebrantz.com.br/) - Google Cloud, Cloud Functions, IoT
+- [Armando Barbosa](https://medium.com/@armandobs14) - Ciência de dados
+- [Arnaldo Gualberto](https://medium.com/@arnaldog12) - Machine/Deep Learning 
 
 #### B
 - [Beto Muniz](https://betomuniz.com/) - Front-End, Mobile, Javascript, Flutter
@@ -87,7 +89,9 @@ Este projeto visa compilar blogs de desenvolvedores da comunidade brasileira. A 
 
 #### G
 - [Gabriel Ferreira](http://gabsferreira.com/) - .Net, C#, Carreira
+- [Gabriela Caesar](https://medium.com/@gabrielacaesar) - Jornalismo de dados, análise de dados, carreira
 - [Gilson Filho](http://gilsondev.in) - Python, Django, Java, Big Data, Engenharia de Dados
+- [Giovanni Santin](https://medium.com/@giovannisantin) - Ciência de dados
 
 #### H
 - [Humberto Rocha](https://humberto.io/) - Back-End, Front-End, Python, Angular, Game Dev
@@ -118,6 +122,7 @@ Este projeto visa compilar blogs de desenvolvedores da comunidade brasileira. A 
 #### N
 - [Nando Moreira](https://nandomoreira.me/) - Front-End, Javascript, Comunidade, Carreira
 - [Nando Viera](https://nandovieira.com.br/) - Ruby, Rails, JavaScript, jQuery e Node.js.
+- [Natália Mazotte](https://medium.com/@NataliaMazotte) - Ciência de dados, Carreira
 - [Nelson Glauber](http://www.nglauber.com.br) - Android, Java, Kotlin
 
 #### P
@@ -137,6 +142,7 @@ Este projeto visa compilar blogs de desenvolvedores da comunidade brasileira. A 
 - [Victor Torres](https://victortorres.net.br/) - Dicas de macOS, Linux, git...
 - [Vinícius Lourenço](https://blog.vilourenco.com.br) - WordPress, PHP, Carreira, Trabalho Remoto, Dicas
 - [Vinícius Thiengo](https://www.thiengo.com.br/) - Android, Web, Empreendedorismo
+- [Volt Data Lab](https://medium.com/@voltdatalab) - Jornalismo de dados, Visualização de dados
 
 #### W
 - [Waldemar Neto](https://walde.co/) - Front-End, Javascript, Node, Java, Agile, Devops
