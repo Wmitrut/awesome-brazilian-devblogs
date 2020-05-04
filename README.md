@@ -110,6 +110,7 @@ Este projeto visa compilar blogs de desenvolvedores da comunidade brasileira. A 
 - [Luã Ciceri Schwertner](https://www.lciceris.com.br) - Front-End, WordPress, SEO, PHP e Acessibilidade
 - [Lucas Andrey](http://andreybleme.com/) - Javascript, DevOps, TDD
 - [Lucas Caton](https://www.lucascaton.com.br/) - Ruby e Ruby on Rails
+- [Lucas Santos](https://dev.to/khaosdoctor/) - JavaScript, Node.js, TypeScript, Containers, Kubernetes, DevOps
 - [Luiz Carvalho](https://medium.com/@luizcarvalho) - Ruby, Chatbots, Inovação
 
 #### M
