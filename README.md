@@ -84,8 +84,9 @@ Este projeto visa compilar blogs de desenvolvedores da comunidade brasileira. A 
 
 #### F
 - [Felipe Fialho](https://www.felipefialho.com/blog/) - Front-End, CSS, Javascript, Carreira
+- [Fellyph Cintra](https://blog.fellyph.com.br/)- Front-End, Javascript, PWA, AMP, WordPress
 - [Fernanda Bernardo](https://fernandabernardo.com.br) - Front-End, CSS, Javascript
-- [Fernando Daciuk](https://blog.da2k.com.br/) - Front-End, Javascript, React, Wordpress
+- [Fernando Daciuk](https://blog.da2k.com.br/) - Front-End, Javascript, React, WordPress
 - [Flávio Almeida](http://cangaceirojavascript.com.br/) - Front-End, Javascript
 
 #### G
