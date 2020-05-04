@@ -113,6 +113,7 @@ Este projeto visa compilar blogs de desenvolvedores da comunidade brasileira. A 
 - [Luiz Carvalho](https://medium.com/@luizcarvalho) - Ruby, Chatbots, Inovação
 
 #### M
+- [Mageflix](https://mageflix.com/) - Magento 2
 - [Marcos Brizeno](https://brizeno.wordpress.com/) - Ruby
 - [Marcos Schultz](http://www.schultzgames.com) - Unity, C#, Game Dev
 - [Maujor](https://www.maujor.com/blog/) - CSS, Front-End
