@@ -140,6 +140,7 @@ Este projeto visa compilar blogs de desenvolvedores da comunidade brasileira. A 
 - [Rocketseat](https://blog.rocketseat.com.br/) - JavaScript, Node.js, React, React Native
 
 #### T
+- [Tautorn](https://tautorn.com.br/) - Front-End, HTML, CSS, Javascript, CICD, Deno.
 - [TK](http://leandrotk.github.io/tk) - JavaScript, Functional Programming, Carreira, Ruby e Python.
 
 #### V
