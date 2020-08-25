@@ -69,6 +69,7 @@ Este projeto visa compilar blogs de desenvolvedores da comunidade brasileira. A 
 - [Caio Ribeiro](https://udgwebdev.com/) - Front-End, Javascript, Node
 - [Claudio Davi](https://claudiodavi.com/) - Machine Learning, Python, Data Science, Engenharia de Software
 - [Cleuton Sampaio](http://www.obomprogramador.com/) - Back-End, React, Data Science, IoT, Arquitetura de Software
+- [Coding With Chopsticks](https://codingwithchopsticks.github.io/) - Ruby on Rails, boas práticas em desenvolvimento de software, vivências pessoais na área de tecnologia
 - [CollabCode](https://medium.com/collabcode) - Front-End, Back-End, Mobile, Javascript, Design e UX
 - [Curso em Vídeo](https://www.cursoemvideo.com/course/) - Algoritmos, HTML5, CSS3, Python, PHP, Java, POO, MySQL, MKT Digital, Photoshop, Word/Excel 2016
 
