@@ -66,7 +66,7 @@ Este projeto visa compilar blogs de desenvolvedores da comunidade brasileira. A 
 - [Bruno Rocha](http://brunorocha.org) - Python, Flask, Web, Quality Engineering, Rust, DevOps
 
 #### C
-- [Caio Ribeiro](https://udgwebdev.com/) - Front-End, Javascript, Node
+- [Caio Ribeiro](https://udgwebdev.github.io/) - Front-End, Javascript, Node, Linux
 - [Claudio Davi](https://claudiodavi.com/) - Machine Learning, Python, Data Science, Engenharia de Software
 - [Cleuton Sampaio](http://www.obomprogramador.com/) - Back-End, React, Data Science, IoT, Arquitetura de Software
 - [Coding With Chopsticks](https://codingwithchopsticks.github.io/) - Ruby on Rails, boas práticas em desenvolvimento de software, vivências pessoais na área de tecnologia
