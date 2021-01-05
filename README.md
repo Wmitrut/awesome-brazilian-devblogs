@@ -56,6 +56,7 @@ Este projeto visa compilar blogs de desenvolvedores da comunidade brasileira. A 
 # Blogs
 
 #### A
+- [Allan Garcez](https://garcez.dev/) - Front-End, Javascript, Typescript, CSS
 - [Alvaro Viebrantz](https://aviebrantz.com.br/) - Google Cloud, Cloud Functions, IoT
 - [Armando Barbosa](https://medium.com/@armandobs14) - Ciência de dados
 - [Arnaldo Gualberto](https://medium.com/@arnaldog12) - Machine/Deep Learning 
