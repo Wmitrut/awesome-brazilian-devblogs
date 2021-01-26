@@ -149,7 +149,7 @@ Este projeto visa compilar blogs de desenvolvedores da comunidade brasileira. A 
 - [Victor Magalhães](https://victormagalhaes.codes/) - Front-end, Javascript, Node
 - [Victor Torres](https://victortorres.net.br/) - Dicas de macOS, Linux, git...
 - [Vinícius Lourenço](https://blog.vilourenco.com.br) - WordPress, PHP, Carreira, Trabalho Remoto, Dicas
-- [Vinicius Sanchez](https://medium.com/@viniciuss.sanchez) - Delphi
+- [Vinicius Sanchez](https://vinicius-sanchez.medium.com/) - Delphi
 - [Vinícius Thiengo](https://www.thiengo.com.br/) - Android, Web, Empreendedorismo
 - [Volt Data Lab](https://medium.com/@voltdatalab) - Jornalismo de dados, Visualização de dados
 
