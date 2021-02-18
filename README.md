@@ -121,6 +121,7 @@ Este projeto visa compilar blogs de desenvolvedores da comunidade brasileira. A 
 - [Mageflix](https://mageflix.com/) - Magento 2
 - [Marcos Brizeno](https://brizeno.wordpress.com/) - Ruby
 - [Marcos Schultz](http://www.schultzgames.com) - Unity, C#, Game Dev
+- [Mateus Ávila](https://mateusavila.com.br/blog/) - Vue, Javascript, Performance, Carreira
 - [Maujor](https://www.maujor.com/blog/) - CSS, Front-End
 - [Micael Pereira](https://www.micaelpereira.com.br) - Git, Node.js, Ionic, Carreira, Empreendedorismo.
 - [Michell Stuttgart](https://mstuttgart.github.io) - Python, Git, Linux
