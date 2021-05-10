@@ -69,7 +69,6 @@ Este projeto visa compilar blogs de desenvolvedores da comunidade brasileira. A 
 #### C
 - [Caio Ribeiro](https://udgwebdev.github.io/) - Front-End, Javascript, Node, Linux
 - [Claudio Davi](https://claudiodavi.com/) - Machine Learning, Python, Data Science, Engenharia de Software
-- [Cleuton Sampaio](http://www.obomprogramador.com/) - Back-End, React, Data Science, IoT, Arquitetura de Software
 - [Coding With Chopsticks](https://codingwithchopsticks.github.io/) - Ruby on Rails, boas práticas em desenvolvimento de software, vivências pessoais na área de tecnologia
 - [CollabCode](https://medium.com/collabcode) - Front-End, Back-End, Mobile, Javascript, Design e UX
 - [Curso em Vídeo](https://www.cursoemvideo.com/course/) - Algoritmos, HTML5, CSS3, Python, PHP, Java, POO, MySQL, MKT Digital, Photoshop, Word/Excel 2016
@@ -81,7 +80,7 @@ Este projeto visa compilar blogs de desenvolvedores da comunidade brasileira. A 
 
 #### E
 - [Eduardo Rabelo](https://medium.com/@oieduardorabelo) - Front-End
-- [Elemar Jr](http://www.elemarjr.com/pt/blog/) - Microsoft MVP, C#, Arquitetura de Software
+- [Elemar Jr](https://elemarjr.com/arquivo/) - Microsoft MVP, C#, Arquitetura de Software
 - [Erick Wendel](https://erickwendel.com/) - CVS, Arquitetura de Software, Front-End, Javascript, Node
 - [Everton Strack](https://evertonstrack.com.br/blog/) - Front-End, HTML, CSS, Javascript
 
