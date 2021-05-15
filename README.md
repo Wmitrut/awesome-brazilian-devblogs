@@ -16,7 +16,6 @@
 <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs welcome!" />
 </p>
 
-
 # Motivação
 
 Este projeto visa compilar blogs de desenvolvedores da comunidade brasileira. A exigência principal é que o blog esteja ou tenha uma quantia considerável de posts em português PT-BR.
@@ -31,42 +30,45 @@ Este projeto visa compilar blogs de desenvolvedores da comunidade brasileira. A 
         - [Nome do Blog / Mantenedor](link) - Tema, tema, tema, tema
 
 # Índice
-  - [A](#A)
-  - [B](#B)
-  - [C](#C)
-  - [D](#D)
-  - [E](#E)
-  - [F](#F)
-  - [G](#G)
-  - [H](#H)
-  - [I](#I)
-  - [J](#J)
-  - [L](#L)
-  - [M](#M)
-  - [N](#N)
-  - [P](#P)
-  - [R](#R)
-  - [T](#T)
-  - [V](#V)
-  - [W](#W)
-  - [Y](#Y)
-  - [Z](#Z)
 
+- [A](#A)
+- [B](#B)
+- [C](#C)
+- [D](#D)
+- [E](#E)
+- [F](#F)
+- [G](#G)
+- [H](#H)
+- [I](#I)
+- [J](#J)
+- [L](#L)
+- [M](#M)
+- [N](#N)
+- [P](#P)
+- [R](#R)
+- [T](#T)
+- [V](#V)
+- [W](#W)
+- [Y](#Y)
+- [Z](#Z)
 
 # Blogs
 
 #### A
+
 - [Allan Garcez](https://garcez.dev/) - Front-End, Javascript, Typescript, CSS
 - [Alvaro Viebrantz](https://aviebrantz.com.br/) - Google Cloud, Cloud Functions, IoT
 - [Armando Barbosa](https://medium.com/@armandobs14) - Ciência de dados
-- [Arnaldo Gualberto](https://medium.com/@arnaldog12) - Machine/Deep Learning 
+- [Arnaldo Gualberto](https://medium.com/@arnaldog12) - Machine/Deep Learning
 
 #### B
+
 - [Beto Muniz](https://betomuniz.com/) - Front-End, Mobile, Javascript, Flutter
 - [Bruno Pulis](http://brunopulis.com/) - Front-End, Javascript, Comunidade, Wordpress
 - [Bruno Rocha](http://brunorocha.org) - Python, Flask, Web, Quality Engineering, Rust, DevOps
 
 #### C
+
 - [Caio Ribeiro](https://udgwebdev.github.io/) - Front-End, Javascript, Node, Linux
 - [Claudio Davi](https://claudiodavi.com/) - Machine Learning, Python, Data Science, Engenharia de Software
 - [Coding With Chopsticks](https://codingwithchopsticks.github.io/) - Ruby on Rails, boas práticas em desenvolvimento de software, vivências pessoais na área de tecnologia
@@ -74,17 +76,20 @@ Este projeto visa compilar blogs de desenvolvedores da comunidade brasileira. A 
 - [Curso em Vídeo](https://www.cursoemvideo.com/course/) - Algoritmos, HTML5, CSS3, Python, PHP, Java, POO, MySQL, MKT Digital, Photoshop, Word/Excel 2016
 
 #### D
+
 - [Daniela Petruzalek](https://medium.com/@danielapetruzalek) - Google Cloud, Data Engineering, Go
 - [DevDojo](http://devdojo.academy) - Java, Spring Boot, JSF, TypeScript
 - [Diogo Souza Machado](https://www.diogomachado.com) - Front-End, Mobile, Javascript, PHP, Carreira, Dicas para devs
 
 #### E
+
 - [Eduardo Rabelo](https://medium.com/@oieduardorabelo) - Front-End
 - [Elemar Jr](https://elemarjr.com/arquivo/) - Microsoft MVP, C#, Arquitetura de Software
 - [Erick Wendel](https://erickwendel.com/) - CVS, Arquitetura de Software, Front-End, Javascript, Node
 - [Everton Strack](https://evertonstrack.com.br/blog/) - Front-End, HTML, CSS, Javascript
 
 #### F
+
 - [Felipe Fialho](https://www.felipefialho.com/blog/) - Front-End, CSS, Javascript, Carreira
 - [Fellyph Cintra](https://blog.fellyph.com.br/)- Front-End, Javascript, PWA, AMP, WordPress
 - [Fernanda Bernardo](https://fernandabernardo.com.br) - Front-End, CSS, Javascript
@@ -92,21 +97,26 @@ Este projeto visa compilar blogs de desenvolvedores da comunidade brasileira. A 
 - [Flávio Almeida](http://cangaceirojavascript.com.br/) - Front-End, Javascript
 
 #### G
+
 - [Gabriel Ferreira](http://gabsferreira.com/) - .Net, C#, Carreira
 - [Gabriela Caesar](https://medium.com/@gabrielacaesar) - Jornalismo de dados, análise de dados, carreira
 - [Gilson Filho](http://gilsondev.in) - Python, Django, Java, Big Data, Engenharia de Dados
 - [Giovanni Santin](https://medium.com/@giovannisantin) - Ciência de dados
 
 #### H
+
 - [Humberto Rocha](https://humberto.io/) - Back-End, Front-End, Python, Angular, Game Dev
 
 #### I
+
 - [InfoQ Brasil](https://www.infoq.com/br) - Desenvolvimento e linguagens em geral, Arquitetura, Data Science, DevOps
 
 #### J
+
 - [Jessica Temporal](https://jtemporal.com/) - Data Science, Python, Docker, Jekyll
 
 #### L
+
 - [LAMFO](https://lamfo-unb.github.io/) - Aprendizado de Maquina em Finanças e Organizações
 - [Leticia Portella](https://leportella.com/) - Data Science, Python, Django, Dicas para devs
 - [Loiane Training](https://loiane.training/cursos) - Java, JavaScript, Angular, Estrutura de Dados, Ext Js 4, Phonegap/Cordova
@@ -117,6 +127,7 @@ Este projeto visa compilar blogs de desenvolvedores da comunidade brasileira. A 
 - [Luiz Carvalho](https://medium.com/@luizcarvalho) - Ruby, Chatbots, Inovação
 
 #### M
+
 - [Mageflix](https://mageflix.com/) - Magento 2
 - [Marcos Brizeno](https://brizeno.wordpress.com/) - Ruby
 - [Marcos Schultz](http://www.schultzgames.com) - Unity, C#, Game Dev
@@ -127,25 +138,30 @@ Este projeto visa compilar blogs de desenvolvedores da comunidade brasileira. A 
 - [Minerando Dados](http://minerandodados.com.br/) - Data Science, Big Data, IA e Carreira
 
 #### N
+
 - [Nando Moreira](https://nandomoreira.me/) - Front-End, Javascript, Comunidade, Carreira
 - [Nando Viera](https://nandovieira.com.br/) - Ruby, Rails, JavaScript, jQuery e Node.js.
 - [Natália Mazotte](https://medium.com/@NataliaMazotte) - Ciência de dados, Carreira
 - [Nelson Glauber](http://www.nglauber.com.br) - Android, Java, Kotlin
 
 #### P
+
 - [Pizza de dados](https://medium.com/pizzadedados) - Data Science
 - [Programador Sagaz | Weuler Borges](https://programadorsagaz.com.br/) - Algoritmos, HTML5, CSS3, Python, PHP, Java, POO
 - [PythonClub](http://pythonclub.com.br/) - Python
 
 #### R
+
 - [Ravan Scafi](https://ravan.me) - PHP, Elixir, Carreira
 - [Rocketseat](https://blog.rocketseat.com.br/) - JavaScript, Node.js, React, React Native
 
 #### T
+
 - [Tautorn](https://tautorn.com.br/) - Front-End, HTML, CSS, Javascript, CICD, Deno.
 - [TK](http://leandrotk.github.io/tk) - JavaScript, Functional Programming, Carreira, Ruby e Python.
 
 #### V
+
 - [Victor Magalhães](https://victormagalhaes.codes/) - Front-end, Javascript, Node
 - [Victor Torres](https://victortorres.net.br/) - Dicas de macOS, Linux, git...
 - [Vinícius Lourenço](https://blog.vilourenco.com.br) - WordPress, PHP, Carreira, Trabalho Remoto, Dicas
@@ -154,20 +170,20 @@ Este projeto visa compilar blogs de desenvolvedores da comunidade brasileira. A 
 - [Volt Data Lab](https://medium.com/@voltdatalab) - Jornalismo de dados, Visualização de dados
 
 #### W
+
 - [Waldemar Neto](https://walde.co/) - Front-End, Javascript, Node, Java, Agile, Devops
-- [Wellington Mitrut](https://blog.wmitrut.com/) - Front-End, UI, UX, Javascript, Mobile, Kotlin
+- [Wellington Mitrut](https://blog.wmitrut.co/) - Front-End, UI, UX, Javascript
 - [Wharley Ornelas](https://wharley.github.io/) - Full-Stack, Javascript, Comunidade
 - [Willian Justen](https://willianjusten.com.br/) - Front-End, Javascript, Comunidade, Carreira, Trabalho Remoto
-- [William Oliveira](https://woliveiras.com.br/) -  JavaScript,Comunidade, Git
+- [William Oliveira](https://woliveiras.com.br/) - JavaScript,Comunidade, Git
 
 #### Y
+
 - [Yan Magalhães](http://yanmagalhaes.com.br/) - Front-end, Javascript, Comunidade
 
 #### Z
+
 - [Zeno Rocha](https://zenorocha.com/articles/) - Front-End, Javascript, Comunidade, Carreira
-
-
-
 
 # Contribua
 
