@@ -113,8 +113,8 @@ Este projeto visa compilar blogs de desenvolvedores da comunidade brasileira. A 
 
 #### I
 
-- [InfoQ Brasil](https://www.infoq.com/br) - Desenvolvimento e linguagens em geral, Arquitetura, Data Science, DevOps
 - [Igor Giamoniano](https://igorgiamoniano.medium.com/) - Back-End, Node.js, Python
+- [InfoQ Brasil](https://www.infoq.com/br) - Desenvolvimento e linguagens em geral, Arquitetura, Data Science, DevOps
 
 #### J
 
