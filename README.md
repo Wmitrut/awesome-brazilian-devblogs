@@ -149,6 +149,7 @@ Este projeto visa compilar blogs de desenvolvedores da comunidade brasileira. A 
 #### V
 - [Victor Magalhães](https://victormagalhaes.codes/) - Front-end, Javascript, Node
 - [Victor Torres](https://victortorres.net.br/) - Dicas de macOS, Linux, git...
+- [Vinicius Dias](https://dias.dev/) - PHP, Boas práticas, Testes, Git, Segurança da informação
 - [Vinícius Lourenço](https://blog.vilourenco.com.br) - WordPress, PHP, Carreira, Trabalho Remoto, Dicas
 - [Vinicius Sanchez](https://vinicius-sanchez.medium.com/) - Delphi
 - [Vinícius Thiengo](https://www.thiengo.com.br/) - Android, Web, Empreendedorismo
