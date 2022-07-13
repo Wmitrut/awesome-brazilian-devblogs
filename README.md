@@ -99,6 +99,7 @@ Este projeto visa compilar blogs de desenvolvedores da comunidade brasileira. A 
 - [Fernanda Bernardo](https://fernandabernardo.com.br) - Front-End, CSS, Javascript
 - [Fernando Daciuk](https://blog.da2k.com.br/) - Front-End, Javascript, React, WordPress
 - [Flávio Almeida](http://cangaceirojavascript.com.br/) - Front-End, Javascript
+- [Francisco Zanfranceschi](https://dev.to/zanfranceschi/) - Engenharia e arquitetura de software, desafios e conceitos de programação, microsserviços 
 
 #### G
 
