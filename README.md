@@ -73,7 +73,7 @@ Este projeto visa compilar blogs de desenvolvedores da comunidade brasileira. A 
 - [Claudio Davi](https://claudiodavi.com/) - Machine Learning, Python, Data Science, Engenharia de Software
 - [Coding With Chopsticks](https://codingwithchopsticks.github.io/) - Ruby on Rails, boas práticas em desenvolvimento de software, vivências pessoais na área de tecnologia
 - [CollabCode](https://medium.com/collabcode) - Front-End, Back-End, Mobile, Javascript, Design e UX
-- [Curso em Vídeo](https://www.cursoemvideo.com/course/) - Algoritmos, HTML5, CSS3, Python, PHP, Java, POO, MySQL, MKT Digital, Photoshop, Word/Excel 2016
+- [Curso em Vídeo](https://www.cursoemvideo.com/blog/) - Algoritmos, HTML5, CSS3, Python, PHP, Java, POO, MySQL, MKT Digital, Photoshop, Word/Excel 2016
 
 #### D
 
