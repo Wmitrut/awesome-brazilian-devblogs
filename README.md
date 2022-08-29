@@ -133,6 +133,7 @@ Este projeto visa compilar blogs de desenvolvedores da comunidade brasileira. A 
 
 #### M
 
+- [Mente Binária](https://www.mentebinaria.com.br/) - Hacking, Engenharia Reversa, Programação em baixo nível
 - [Mageflix](https://mageflix.com/) - Magento 2
 - [Marcos Brizeno](https://brizeno.wordpress.com/) - Ruby
 - [Marcos Schultz](http://www.schultzgames.com) - Unity, C#, Game Dev
