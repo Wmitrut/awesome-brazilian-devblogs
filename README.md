@@ -79,6 +79,7 @@ Este projeto visa compilar blogs de desenvolvedores da comunidade brasileira. A 
 
 - [Daniela Petruzalek](https://medium.com/@danielapetruzalek) - Google Cloud, Data Engineering, Go
 - [DevDojo](http://devdojo.academy) - Java, Spring Boot, JSF, TypeScript
+- [DevSagaz](https://devsagaz.com.br) - Conteúdos diversos sobre desenvolvimento de software
 - [Dicas de Java](https://dicasdejava.com.br/) - Blog com pequenos tutoriais e dicas de Java
 - [Dicas de Javascript](https://dicasdejavascript.com.br/) - Blog com pequenos tutoriais e dicas de Javascript
 - [Dicas de Programação](https://dicasdeprogramacao.com.br/) - Blog para iniciantes em programação
