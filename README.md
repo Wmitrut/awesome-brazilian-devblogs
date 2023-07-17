@@ -107,6 +107,7 @@ Este projeto visa compilar blogs de desenvolvedores da comunidade brasileira. A 
 - [Gabriela Caesar](https://medium.com/@gabrielacaesar) - Jornalismo de dados, análise de dados, carreira
 - [Gilson Filho](http://gilsondev.in) - Python, Django, Java, Big Data, Engenharia de Dados
 - [Giovanni Santin](https://medium.com/@giovannisantin) - Ciência de dados
+- [Guilherme Branco Stracini](https://blog.guilhermebranco.com.br) - .NET, C#, Backend, Carreira, Arquitetura, DevOps
 
 #### H
 
