@@ -56,6 +56,7 @@ Este projeto visa compilar blogs de desenvolvedores da comunidade brasileira. A 
 
 #### A
 
+- [Anderson Marlon](https://yagasaki.dev/blog) - Front-End, Javascript, Typescript, IA, CSS, Linux
 - [Allan Garcez](https://garcez.dev/) - Front-End, Javascript, Typescript, CSS
 - [Alvaro Viebrantz](https://aviebrantz.com.br/) - Google Cloud, Cloud Functions, IoT
 - [Armando Barbosa](https://medium.com/@armandobs14) - Ciência de dados
