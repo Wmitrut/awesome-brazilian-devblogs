@@ -89,6 +89,7 @@ Este projeto visa compilar blogs de desenvolvedores da comunidade brasileira. A 
 
 #### E
 
+- [Estudante.dev](https://estudante.dev/blog/) - Carreira em TI, Node, JavaScript, Front-End, Back-End, WebApps, PWA, TWA
 - [Eduardo Rabelo](https://medium.com/@oieduardorabelo) - Front-End
 - [Elemar Jr](https://elemarjr.com/arquivo/) - Microsoft MVP, C#, Arquitetura de Software
 - [Erick Wendel](https://erickwendel.com/) - CVS, Arquitetura de Software, Front-End, Javascript, Node
@@ -161,6 +162,7 @@ Este projeto visa compilar blogs de desenvolvedores da comunidade brasileira. A 
 
 #### R
 
+- [Rubens Flinco]([https://estudante.dev/blog/](https://www.rubensflinco.com.br/)) - Node, JavaScript, Front-End, Back-End, WebApps, PWA, TWA, Desgin
 - [Ravan Scafi](https://ravan.me) - PHP, Elixir, Carreira
 - [Rocketseat](https://blog.rocketseat.com.br/) - JavaScript, Node.js, React, React Native
 
