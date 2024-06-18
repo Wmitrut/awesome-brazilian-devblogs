@@ -67,6 +67,7 @@ Este projeto visa compilar blogs de desenvolvedores da comunidade brasileira. A 
 - [Beto Muniz](https://betomuniz.com/) - Front-End, Mobile, Javascript, Flutter
 - [Bruno Pulis](http://brunopulis.com/) - Front-End, Javascript, Comunidade, Wordpress
 - [Bruno Rocha](http://brunorocha.org) - Python, Flask, Web, Quality Engineering, Rust, DevOps
+- [Baboo](https://www.baboo.com.br/) - Windows
 
 #### C
 
@@ -75,6 +76,7 @@ Este projeto visa compilar blogs de desenvolvedores da comunidade brasileira. A 
 - [Coding With Chopsticks](https://codingwithchopsticks.github.io/) - Ruby on Rails, boas práticas em desenvolvimento de software, vivências pessoais na área de tecnologia
 - [CollabCode](https://medium.com/collabcode) - Front-End, Back-End, Mobile, Javascript, Design e UX
 - [Curso em Vídeo](https://www.cursoemvideo.com/blog/) - Algoritmos, HTML5, CSS3, Python, PHP, Java, POO, MySQL, MKT Digital, Photoshop, Word/Excel 2016
+- [Cybernetus](https://cybernetus.com/post/) - Linux, Segurança, DevOps
 
 #### D
 
@@ -141,6 +143,7 @@ Este projeto visa compilar blogs de desenvolvedores da comunidade brasileira. A 
 - [Marcos Brizeno](https://brizeno.wordpress.com/) - Ruby
 - [Marcos Schultz](http://www.schultzgames.com) - Unity, C#, Game Dev
 - [Mateus Ávila](https://mateusavila.com.br/blog/) - Vue, Javascript, Performance, Carreira
+- [Mateus Felipe Gonçalves](https://mateusf.com/blog) - Linux, Javascript, Typescript, Python, Front-end, Back-end, Criptografia, Banco de Dados, Geek
 - [Maujor](https://www.maujor.com/blog/) - CSS, Front-End
 - [Micael Pereira](https://www.micaelpereira.com.br) - Git, Node.js, Ionic, Carreira, Empreendedorismo.
 - [Michell Stuttgart](https://mstuttgart.github.io) - Python, Git, Linux
@@ -158,6 +161,7 @@ Este projeto visa compilar blogs de desenvolvedores da comunidade brasileira. A 
 - [Pizza de dados](https://medium.com/pizzadedados) - Data Science
 - [Programador Sagaz | Weuler Borges](https://programadorsagaz.com.br/) - Algoritmos, HTML5, CSS3, Python, PHP, Java, POO
 - [PythonClub](http://pythonclub.com.br/) - Python
+- [Professor Benjamin](https://www.galirows.com.br/meublog/) - Algoritmos, Matemática
 
 #### R
 
