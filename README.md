@@ -133,6 +133,7 @@ Este projeto visa compilar blogs de desenvolvedores da comunidade brasileira. A 
 - [Lucas Caton](https://www.lucascaton.com.br/) - Ruby e Ruby on Rails
 - [Lucas Santos](https://dev.to/khaosdoctor/) - JavaScript, Node.js, TypeScript, Containers, Kubernetes, DevOps
 - [Luiz Carvalho](https://medium.com/@luizcarvalho) - Ruby, Chatbots, Inovação
+- [Leandro Scardua](https://leandroscardua.com/) - DevOps, Cloud, Infraestrutura
 
 #### M
 
