@@ -126,6 +126,7 @@ Este projeto visa compilar blogs de desenvolvedores da comunidade brasileira. A 
 #### L
 
 - [LAMFO](https://lamfo-unb.github.io/) - Aprendizado de Maquina em Finanças e Organizações
+- [Leandro Scardua](https://leandroscardua.com/) - DevOps, Cloud, Infraestrutura
 - [Leticia Portella](https://leportella.com/) - Data Science, Python, Django, Dicas para devs
 - [Loiane Training](https://loiane.training/cursos) - Java, JavaScript, Angular, Estrutura de Dados, Ext Js 4, Phonegap/Cordova
 - [Luã Ciceri Schwertner](https://www.lciceris.com.br) - Front-End, WordPress, SEO, PHP e Acessibilidade
@@ -133,7 +134,6 @@ Este projeto visa compilar blogs de desenvolvedores da comunidade brasileira. A 
 - [Lucas Caton](https://www.lucascaton.com.br/) - Ruby e Ruby on Rails
 - [Lucas Santos](https://dev.to/khaosdoctor/) - JavaScript, Node.js, TypeScript, Containers, Kubernetes, DevOps
 - [Luiz Carvalho](https://medium.com/@luizcarvalho) - Ruby, Chatbots, Inovação
-- [Leandro Scardua](https://leandroscardua.com/) - DevOps, Cloud, Infraestrutura
 
 #### M
 
