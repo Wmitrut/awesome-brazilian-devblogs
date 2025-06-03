@@ -128,6 +128,7 @@ Este projeto visa compilar blogs de desenvolvedores da comunidade brasileira. A 
 
 - [LAMFO](https://lamfo-unb.github.io/) - Aprendizado de Maquina em Finanças e Organizações
 - [Leticia Portella](https://leportella.com/) - Data Science, Python, Django, Dicas para devs
+- [Let's Code And Drink Coffee / Luis Justin](https;//luisjustin.com.br) - Programação, DevOps, Infraestrutura, Cloud, Experiências
 - [Loiane Training](https://loiane.training/cursos) - Java, JavaScript, Angular, Estrutura de Dados, Ext Js 4, Phonegap/Cordova
 - [Luã Ciceri Schwertner](https://www.lciceris.com.br) - Front-End, WordPress, SEO, PHP e Acessibilidade
 - [Lucas Andrey](http://andreybleme.com/) - Javascript, DevOps, TDD
