@@ -129,6 +129,7 @@ Este projeto visa compilar blogs de desenvolvedores da comunidade brasileira. A 
 #### L
 
 - [LAMFO](https://lamfo-unb.github.io/) - Aprendizado de Maquina em Finanças e Organizações
+- [Leandro Scardua](https://leandroscardua.com/) - DevOps, Cloud, Infraestrutura
 - [Leticia Portella](https://leportella.com/) - Data Science, Python, Django, Dicas para devs
 - [Let's Code And Drink Coffee / Luis Justin](https;//luisjustin.com.br) - Programação, DevOps, Infraestrutura, Cloud, Experiências
 - [Loiane Training](https://loiane.training/cursos) - Java, JavaScript, Angular, Estrutura de Dados, Ext Js 4, Phonegap/Cordova
