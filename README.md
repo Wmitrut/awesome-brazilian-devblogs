@@ -71,6 +71,7 @@ Este projeto visa compilar blogs de desenvolvedores da comunidade brasileira. A 
 
 #### C
 
+- [C# Brasil](https://csharpbrasil.com.br/) - C#, .NET, ASP.NET, Arquitetura de Software e Soluções, DevOps, Docker, tecnologias e desenvolvimento
 - [Caio Ribeiro](https://udgwebdev.github.io/) - Front-End, Javascript, Node, Linux
 - [Claudio Davi](https://claudiodavi.com/) - Machine Learning, Python, Data Science, Engenharia de Software
 - [Coding With Chopsticks](https://codingwithchopsticks.github.io/) - Ruby on Rails, boas práticas em desenvolvimento de software, vivências pessoais na área de tecnologia
@@ -158,6 +159,7 @@ Este projeto visa compilar blogs de desenvolvedores da comunidade brasileira. A 
 - [Nando Viera](https://nandovieira.com.br/) - Ruby, Rails, JavaScript, jQuery e Node.js.
 - [Natália Mazotte](https://medium.com/@NataliaMazotte) - Ciência de dados, Carreira
 - [Nelson Glauber](http://www.nglauber.com.br) - Android, Java, Kotlin
+- [Ninja Python](https://ninjapython.com.br/) - Python
 
 #### P
 
