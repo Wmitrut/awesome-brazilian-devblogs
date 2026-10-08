@@ -102,6 +102,7 @@ Este projeto visa compilar blogs de desenvolvedores da comunidade brasileira. A 
 #### F
 
 - [Felipe Fialho](https://www.felipefialho.com/blog/) - Front-End, CSS, Javascript, Carreira
+- [Felipe Fontoura](https://felipefontoura.com/pt/articles/?utm_source=github&utm_medium=referral&utm_campaign=awesome-brazilian-devblogs) - IA para engenharia de software, Claude Code, Skills, Spec-Driven Development, Context Engineering
 - [Fellyph Cintra](https://blog.fellyph.com.br/)- Front-End, Javascript, PWA, AMP, WordPress
 - [Fernanda Bernardo](https://fernandabernardo.com.br) - Front-End, CSS, Javascript
 - [Fernando Daciuk](https://blog.da2k.com.br/) - Front-End, Javascript, React, WordPress
