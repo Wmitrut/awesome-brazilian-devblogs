@@ -77,6 +77,7 @@ Este projeto visa compilar blogs de desenvolvedores da comunidade brasileira. A 
 - [Coding With Chopsticks](https://codingwithchopsticks.github.io/) - Ruby on Rails, boas práticas em desenvolvimento de software, vivências pessoais na área de tecnologia
 - [CollabCode](https://medium.com/collabcode) - Front-End, Back-End, Mobile, Javascript, Design e UX
 - [Computaria](https://computaria.gitlab.io/blog/) - Devaneios e dicas de programação, computação ou engenharia de software
+- [Control Cloud / Gonzalo Gjuka](https://controlcloud.dev/pt/blog) - Cloud, DevOps, Terraform, FinOps, OCI, AWS, GCP
 - [Curso em Vídeo](https://www.cursoemvideo.com/blog/) - Algoritmos, HTML5, CSS3, Python, PHP, Java, POO, MySQL, MKT Digital, Photoshop, Word/Excel 2016
 - [Cybernetus](https://cybernetus.com/post/) - Linux, Segurança, DevOps
 
